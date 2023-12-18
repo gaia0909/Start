@@ -14,6 +14,7 @@ public class start : MonoBehaviour
   
     public void Change()
     {
+        //Change Scene
         SceneManager.LoadScene("game");
     }
 }
